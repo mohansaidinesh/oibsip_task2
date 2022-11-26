@@ -5,3 +5,7 @@ The system generates a random number from a given range, say 1 to 100.
 The user is prompted to enter their given number in a displayed dialogue box.
 The computer then tells if the entered number matches the guesses number or it is higher/lower than the generated number.
 The game continues under the user guessing the number.
+
+
+https://user-images.githubusercontent.com/85325733/204094437-e64afbc3-b774-4f67-9aa4-4793c57c830f.mp4
+
